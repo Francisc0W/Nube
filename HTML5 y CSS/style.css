@@ -1,0 +1,58 @@
+body{
+    background: #cccccc;
+    margin: 0%;
+}
+.tituloPrincipal{
+    padding-left: 30px;
+}
+#banner{
+    width: 100%;
+}
+
+.principal{
+    background: #cccccc;
+    padding: 20px;
+}
+
+.tituloCentral{
+    text-align:center;
+
+}
+
+p{
+    text-align: center;
+    background: #cccccc;
+}
+
+p em{
+    font-size: 20px;
+}
+
+em strong{
+    color: red;
+}
+
+#A123{
+    font-size: 20px;
+}
+
+.diferenciales{
+    background-color: white;
+    padding: 30px;
+}
+
+
+.items{
+    font-style: italic;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imgDiferenciales{
+    width: 50%;
+}
